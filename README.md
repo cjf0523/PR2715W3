@@ -167,7 +167,7 @@ pip install concurrent-log-handler
   3. 如遇到`Max average time of all CPUs userspace load test: 2.17
      Min average time of all CPUs userspace load test: 2.18
      The speedup(0.99) is not between 1.00 and 5.50
-     Test userspace failed.`Max average time 小于Min average time的情况，需对CUP进行调优操作，具体方法请教会的同事，我没测过cpu不清楚相关操作。
+     Test userspace failed.`Max average time 小于Min average time的情况，需更改CUP模式。
 
 # 内存测试
 
